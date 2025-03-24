@@ -47,6 +47,8 @@ python dino_bot.py
 - It analyzes a specific pixel range for any non-white color (obstacle).
 - If an obstacle is detected, it presses the spacebar to make the dino jump.
 - The detection area dynamically moves forward as the game speed increases.
+<br>
+PYTHON
 ```
 def is_target_color(image, x_position_range):
     """Check if any pixel in the specified range matches the target color."""
