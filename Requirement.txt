@@ -1,0 +1,5 @@
+selenium
+pyautogui
+pillow
+webdriver-manager
+keyboard
