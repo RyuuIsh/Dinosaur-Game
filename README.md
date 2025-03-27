@@ -9,13 +9,13 @@ This is a Python bot that automatically plays the Google Chrome Dinosaur Game us
 ✅ Allows manual exit by pressing the 'q' key ❌<br>
 
 ## How it Works 
-1️⃣ Launches the Chrome Dinosaur Game in the browser using Selenium 🌐<br>
-2️⃣ Starts the game automatically by pressing the spacebar 🎮<br>
-3️⃣ Takes screenshots at regular intervals using PyAutoGUI 📸<br>
-4️⃣ Scans pixels in a specified region to detect obstacles 🏗<br>
-5️⃣ Jumps when an obstacle is detected using PyAutoGUI spacebar press ⬆<br>
-6️⃣ Increases detection speed as the game progresses ⚡<br>
-7️⃣ Quits the game if 'q' is pressed on the keyboard 🔚<br>
+1. Launches the Chrome Dinosaur Game in the browser using Selenium 🌐<br>
+2. Starts the game automatically by pressing the spacebar 🎮<br>
+3. Takes screenshots at regular intervals using PyAutoGUI 📸<br>
+4. Scans pixels in a specified region to detect obstacles 🏗<br>
+5. Jumps when an obstacle is detected using PyAutoGUI spacebar press ⬆<br>
+6. Increases detection speed as the game progresses ⚡<br>
+7. Quits the game if 'q' is pressed on the keyboard 🔚<br>
 
 ## Project Structure
 ```
